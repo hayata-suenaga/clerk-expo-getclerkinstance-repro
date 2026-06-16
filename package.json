@@ -6,6 +6,7 @@
     "@clerk/expo": "3.4.3",
     "expo": "~56.0.12",
     "expo-dev-client": "~56.0.20",
+    "expo-secure-store": "~56.0.4",
     "expo-status-bar": "~56.0.4",
     "react": "19.2.3",
     "react-native": "0.85.3"
